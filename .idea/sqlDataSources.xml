@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="d2929f04-4766-4941-982a-bb8fbce301b3" name="my_express_app Mapping">
+      <data-sources db="8f1586b5-9ab0-4fbe-862b-5d401b001f5c" ddl="d46a89c3-326e-4b95-bf27-77016268bf22" />
+    </mapping>
+  </component>
+</project>
